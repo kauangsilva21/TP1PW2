@@ -8,5 +8,5 @@ $euro= $reais * $euros;
 $dolar= $reais * $dolares;
 $libra= $reais * $libras;
 
-echo "euro " . $euro . "dolar " . $dolar . "libra " . $libra;
+echo "euro " . $euro . " " . "dolar " . " " . $dolar . " " . "libra " . " " . $libra;
 ?>
