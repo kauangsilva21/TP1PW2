@@ -6,11 +6,11 @@
 </head>
 <body>
     <form method="post" action="result.php">
-  <h2>Gerar email cps</h2>
-    <label>Nome:</label><br>
-    <input type="text" name="nome" required><br><br>
-    <label>Sobrenome:</label><br>
-    <input type="text" name="sobrenome" required><br><br>
+  
+    <label>Nome:</label>
+    <input type="text" name="nome">
+    <label>Sobrenome:</label>
+    <input type="text" name="sobrenome">
     <input type="submit" value="Criar E-mail">
   </form>
 </body>
